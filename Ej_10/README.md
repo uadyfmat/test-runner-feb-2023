@@ -16,6 +16,6 @@ La salida debe ser el resultado de comparar los números ingresados para saber s
 
 | Entrada    | Salida     |
 | :--------- | :--------- |
-| 220 <br> 284 | Los números son amigos |
-| 6232 <br> 6368 | Los números son amigos |
-| 130 <br> 908 | Los números NO son amigos |
+| 220 <br> 284 | Los numeros son amigos |
+| 6232 <br> 6368 | Los numeros son amigos |
+| 130 <br> 908 | Los numeros NO son amigos |

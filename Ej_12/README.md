@@ -18,7 +18,7 @@ La salida debe ser una cadena de texto que muestre si el número es perfecto o n
 
 | Entrada    | Salida     |
 | :--------- | :--------- |
-| 6 | El número es perfecto |
-| 8128 | El número es perfecto |
-| 496 | El número es perfecto |
-| 89 | El número NO es perfecto |
+| 6 | El numero es perfecto |
+| 8128 | El numero es perfecto |
+| 496 | El numero es perfecto |
+| 89 | El numero NO es perfecto |
