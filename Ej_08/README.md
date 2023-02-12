@@ -1,25 +1,26 @@
-# **Ejercicio 08:** 
+# **Ejercicio 08:**
 
 ## Descripción del problema
 
-Deberás escribir un programa que mediante estructuras anidadas for() y while() imprima el siguiente patrón:
+Se define un número permutación m sobre r de la siguiente forma:
+$$_mP_r = \frac{m!}{(m-r)!}$$ 
 
-    #+#+#+#+
-    #+#+#+#+
-    #+#+#+#+
-    #+#+#+#+
+Deberás ecribir un programa, que dados los valores de *m* y *r*, el programa imprima el resultado del valor del número **permutación**.
+
 
 ## Descripción de las entradas
 
-Se ingresa un número entero.
+Se ingresan dos números enteros, siendo primero el correspondiente a *m* y el segundo a *r*.
 
 ## Descripción de las salidas
 
-La salida debe ser el patrón antes mostrado, y dependiendo del número ingresado, serán las filas y caracteres de *#* y *+* resultantes.
+La salida debe ser el número permutación resultante, o *entrada inválida* en caso de que se ingrese el valor *m* como 0 por ejemplo.
 
 ## Ejemplos
 
-| Entrada    | Salida     |
+| Entradas    | Salida     |
 | :--------- | :--------- |
-| 4 | #+#+#+#+ <br> #+#+#+#+ <br> #+#+#+#+ <br> #+#+#+#+ |
-| 10 | #+#+#+#+#+#+#+#+#+#+ <br> #+#+#+#+#+#+#+#+#+#+ <br> #+#+#+#+#+#+#+#+#+#+ <br> #+#+#+#+#+#+#+#+#+#+ <br> #+#+#+#+#+#+#+#+#+#+ <br> #+#+#+#+#+#+#+#+#+#+ <br> #+#+#+#+#+#+#+#+#+#+ <br> #+#+#+#+#+#+#+#+#+#+ <br> #+#+#+#+#+#+#+#+#+#+ <br> #+#+#+#+#+#+#+#+#+#+ |
+| 4 <br> 4  | 24 |
+| 5 <br> 2 | 20 |
+| 3 <br> 0 | 1  |
+| 0 <br> 4 | "Entrada invalida" |

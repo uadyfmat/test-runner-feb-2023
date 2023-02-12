@@ -2,25 +2,19 @@
 
 ## Descripción del problema
 
-Se define un número permutación m sobre r de la siguiente forma:
-$$_mP_r = \frac{m!}{(m-r)!}$$ 
-
-Deberás ecribir un programa, que dados los valores de *m* y *r*, el programa imprima el resultado del valor del número **permutación**.
-
+Considere el siguiente proceso repetitivo para un número entero dado: si el número es 1, el proceso termina. De lo contrario, si es par se divide entre 2, y si es impar se multiplica por 3 y se le suma 1. Si empezamos con 6, por ejemplo, obtendremos la sucesión de números 6, 3, 10, 5, 16, 8, 4, 2, 1. La conjetura de Collatz dice que, a partir de cualquier número inicial, la sucesión obtenida siempre termina en 1. Escriba un programa que permita verificar la conjetura de Collatz para cualquier entero dado, y que imprima la secuencia correspondiente.
 
 ## Descripción de las entradas
 
-Se ingresan dos números enteros, siendo primero el correspondiente a *m* y el segundo a *r*.
+Se ingresa un número entero.
 
 ## Descripción de las salidas
 
-La salida debe ser el número permutación resultante, o *entrada inválida* en caso de que se ingrese el valor *m* como 0 por ejemplo.
+La salida debe ser la secuencia de números correspondientes, separados por coma.
 
 ## Ejemplos
 
-| Entradas    | Salida     |
+| Entrada    | Salida     |
 | :--------- | :--------- |
-| 4 <br> 4  | 24 |
-| 5 <br> 2 | 20 |
-| 3 <br> 0 | 1  |
-| 0 <br> 4 | "Entrada inválida" |
+| 6 | 6,3,10,5,16,8,4,2,1 |
+| 7 | 7,22,11,34,17,52,26,13,40,20,10,5,16,8,4,2,1 |
