@@ -1,4 +1,4 @@
-# **Ej. 11:** Nombre del ejercicio
+# **Ejercicio 11:**
 
 ## Descripción del problema
 
