@@ -9,7 +9,7 @@
 
 ## Introducción
 
-Como parte de las actividades del Servicio Social 2023 para el proyecto "Sistema de Apoyo para el Aprendizaje de Programación para Estudiantes con Problemas de Rezago y Deserción", y en colaboración con los profesores M.I.T. Edwin Jesús León Bojorquez y Dr. Juan Pablo Ucán Pech, respectivos rsponsables de los cursos de Programación Estructurada 2023, se les presenta una serie de 10 ejercicios que deberán resolver y validar empleando la herramienta Test-runner.
+Como parte de las actividades del Servicio Social 2023 para el proyecto "Sistema de Apoyo para el Aprendizaje de Programación para Estudiantes con Problemas de Rezago y Deserción", y en colaboración con los profesores M.I.T. Edwin Jesús León Bojorquez y Dr. Juan Pablo Ucán Pech, responsables de los cursos de Programación Estructurada 2023, se les presenta una serie de 10 ejercicios que deberán resolver y validar empleando la herramienta Test-runner.
 
 Dicho esto, Test-runner es una aplicación de línea de comandos que es capaz de probar archivos de código contra casos de prueba de entrada y salida. Fue desarrollada por alumnos de la Facultad de Matemáticas y ha estado en constante evolución desde entonces.
 
