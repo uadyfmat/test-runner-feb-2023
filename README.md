@@ -25,7 +25,7 @@ Así, la meta de este ejercicio es obtener retroalimentación de los estudiantes
 
 ### Descarga del repositorio
 
-Para tener de forma local el proyecto debes de realizar una serie de acciones, empezando por copiar la url del clonado del repositorio, que podrás encontrar en la ventana principal del repositorio.
+Para tener de forma local el proyecto debes de realizar una serie de acciones, empezando por copiar la url del clonado del repositorio, misma que podrás encontrar en la ventana principal del repositorio.
 
 <center>
     <img src="./.github/resources/get_url.png" width="300px">
