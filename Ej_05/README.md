@@ -14,7 +14,7 @@ Se ingresan dos números enteros o flotantes, siendo primero el correspondiente 
 
 ## Descripción de las salidas
 
-La salida debe ser el resultado de evaluar la operación seleccionada, usando los números ingresados.
+La salida debe ser el resultado de evaluar la operación seleccionada, usando los números ingresados usando el formato como en el.
 
 ## Ejemplos
 

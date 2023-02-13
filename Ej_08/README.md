@@ -23,4 +23,4 @@ La salida debe ser el número permutación resultante, o *entrada inválida* en 
 | 4 <br> 4  | 24 |
 | 5 <br> 2 | 20 |
 | 3 <br> 0 | 1  |
-| 0 <br> 4 | "Entrada invalida" |
+| 0 <br> 4 | Entrada invalida |
