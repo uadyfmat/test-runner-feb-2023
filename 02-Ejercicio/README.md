@@ -1,4 +1,4 @@
-# **Ejercicio 03:** 
+# **Ejercicio 03:**
 
 ## Descripción del problema
 
@@ -14,8 +14,8 @@ La salida debe el módulo resultante del dividendo y el divisor.
 
 ## Ejemplos
 
-| Entradas    | Salida     |
-| :--------- | :--------- |
-| 20 <br> 10 | 6 |
-| 15 <br> 3 | 0 |
-| 5 <br> 12 | 5 |
+| Entradas   | Salida |
+| :--------- | :----- |
+| 20 <br> 10 | 6      |
+| 15 <br> 3  | 0      |
+| 5 <br> 12  | 5      |

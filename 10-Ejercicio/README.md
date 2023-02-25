@@ -14,8 +14,8 @@ La salida debe ser los digitos del númmero ordenados de mayor a menor significa
 
 ## Ejemplos
 
-| Entrada    | Salida     |
-| :--------- | :--------- |
-| 1203       | 1, 2, 0, 3 |
-| 100        | 1, 0, 0 |
-| 46         | 4, 6 |
+| Entrada | Salida     |
+| :------ | :--------- |
+| 1203    | 1, 2, 0, 3 |
+| 100     | 1, 0, 0    |
+| 46      | 4, 6       |

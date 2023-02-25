@@ -6,7 +6,7 @@ Hacer un programa para leer dos números n y m (enteros positivos) y determine s
 
 ## Descripción de las entradas
 
-Dos números enteros positivos *m* y *n*.
+Dos números enteros positivos _m_ y _n_.
 
 ## Descripción de las salidas
 
@@ -14,8 +14,8 @@ La salida debe ser el resultado de comparar los números ingresados para saber s
 
 ## Ejemplos
 
-| Entrada    | Salida     |
-| :--------- | :--------- |
-| 220 <br> 284 | Los numeros son amigos |
-| 6232 <br> 6368 | Los numeros son amigos |
-| 130 <br> 908 | Los numeros NO son amigos |
+| Entrada        | Salida                    |
+| :------------- | :------------------------ |
+| 220 <br> 284   | Los numeros son amigos    |
+| 6232 <br> 6368 | Los numeros son amigos    |
+| 130 <br> 908   | Los numeros NO son amigos |

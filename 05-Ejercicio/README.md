@@ -6,7 +6,7 @@ En un videoclub se ofrece la promoción de llevarse tres películas por el preci
 
 ## Descripción de las entradas
 
-Se ingresan tres números enteros o flotantes *precio1*, *precio2* y *precio3*.
+Se ingresan tres números enteros o flotantes _precio1_, _precio2_ y _precio3_.
 
 ## Descripción de las salidas
 
@@ -14,7 +14,7 @@ La salida debe ser el resultado de comparar los precios ingresados, de tal forma
 
 ## Ejemplos
 
-| Entrada    | Salida     |
-| :--------- | :--------- |
+| Entrada              | Salida      |
+| :------------------- | :---------- |
 | 50 <br> 45 <br> 47.5 | 92.50 pesos |
 | 45 <br> 45 <br> 47.5 | 90.00 pesos |

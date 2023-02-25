@@ -1,4 +1,4 @@
-# **Ejercicio 12:** 
+# **Ejercicio 12:**
 
 ## Descripción del problema
 
@@ -11,14 +11,15 @@ Se ingresa un número entero.
 ## Descripción de las salidas
 
 La salida debe ser una cadena de texto que muestre si el número es perfecto o no, cuyas opciones son:
+
 - El número es perfecto.
 - El número NO es perfecto.
 
 ## Ejemplos
 
-| Entrada    | Salida     |
-| :--------- | :--------- |
-| 6 | El numero es perfecto |
-| 8128 | El numero es perfecto |
-| 496 | El numero es perfecto |
-| 89 | El numero NO es perfecto |
+| Entrada | Salida                   |
+| :------ | :----------------------- |
+| 6       | El numero es perfecto    |
+| 8128    | El numero es perfecto    |
+| 496     | El numero es perfecto    |
+| 89      | El numero NO es perfecto |
