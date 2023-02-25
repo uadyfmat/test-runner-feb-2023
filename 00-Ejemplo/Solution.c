@@ -4,7 +4,7 @@
 int main() {
     char text[MAX];
     fgets(text, MAX, stdin);
-    printf(text);
+    printf("%s", text);
 
     return 0;
 }
