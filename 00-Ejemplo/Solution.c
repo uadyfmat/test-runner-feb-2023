@@ -1,10 +1,10 @@
-#include <conio.h>
 #include <stdio.h>
+#define MAX 30
 
 int main() {
-    char name[30];
-    gets(name);
-    printf(name);
+    char text[MAX];
+    fgets(text, MAX, stdin);
+    printf(text);
 
     return 0;
 }
