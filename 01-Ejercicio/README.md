@@ -1,4 +1,4 @@
-# **Ejercicio 02:**
+# **Ejercicio 01:**
 
 ## Descripción del problema
 

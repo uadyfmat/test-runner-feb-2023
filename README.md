@@ -49,7 +49,7 @@ Si te salió el número de la versión después de cada comando, estás listo. A
 
 ## Instalación de Test-runner
 
-Ejecuta en la `Command Prompt` (`cmd`) el siguiente comando:
+Ejecuta en la terminal de `GitBash` (debió instalarse junto con Git) el siguiente comando:
 
 ```text
 npm i -g uadyfmat/test-runner
@@ -73,7 +73,7 @@ Para tener de forma local el proyecto debes de realizar una serie de acciones, e
     <img src="./.github/resources/get_url.png" width="300px">
 </p>
 
-Luego, elige el directorio donde vas a querer que se descargue la carpeta que contiene el repositorio de GitHub. Una vez hecho esto, abre la terminal de `GitBash` (debió instalarse junto con Git) en la carpeta dando click derecho y posteriormente seleccionando la opción _Git Bash here_, tal y como se ilustra a continuación:
+Luego, elige el directorio donde vas a querer que se descargue la carpeta que contiene el repositorio de GitHub. Una vez hecho esto, abre la terminal de `GitBash` en la carpeta dando click derecho y posteriormente seleccionando la opción _Git Bash here_, tal y como se ilustra a continuación:
 
 <p align="center">
     <img src="./.github/resources/git_bash_here_1.png" width="300px">
