@@ -8,7 +8,7 @@ on:
 
 jobs:
   test-exercises:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
         with:
@@ -16,6 +16,6 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: "14"
-      - run: npm install -g uadyfmat/test-runner
-      - run: curl -O https://raw.githubusercontent.com/uadyfmat/test-runner-autoevaluacion-github/main/resources/test-exercises
-      - run: bash test-exercises
+      - run: sudo npm install -g uadyfmat/test-runner
+      - run: sudo curl -O https://raw.githubusercontent.com/uadyfmat/test-runner-autoevaluacion-github/main/resources/test-exercises
+      - run: sudo bash test-exercises
