@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
       - uses: actions/setup-node@v2
         with:
-          node-version: "14"
+          node-version: "16"
       - run: sudo npm install -g uadyfmat/test-runner
       - run: sudo curl -O https://raw.githubusercontent.com/uadyfmat/test-runner-autoevaluacion-github/main/resources/test-exercises
       - run: sudo bash test-exercises
