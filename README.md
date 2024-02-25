@@ -17,39 +17,78 @@ Dicho esto, Test-runner es una aplicación de línea de comandos que es capaz de
 
 Así, la meta de este ejercicio es obtener retroalimentación de los estudiantes respecto al estado actual del proyecto y, de esta manera, poder emprender acciones de mejora para adaptarlo a las necesidades actuales de los alumnos.
 
-## Requerimientos
+## Requisitos Previos
 
-Para poder instalar el Test-runner necesitas:
+Para poder realizar el ejercicio planteado, el usuario deberá tener previamente creada una cuenta de GitHub, la cual utilizará para: 
 
+- Iniciar sesión en la página web de GitHub. 
+- Aceptar la asignación de la tarea desde GitHub Classroom. 
+- Navegar al repositorio creado, enlazado a la asignación de la tarea. 
+- Acceder a la URL del repositorio para poder clonarlo de manera local. 
+- Clonar el repositorio, y realizar las operaciones requeridas para subir cambios al repositorio remoto. 
+
+Para poder instalar el Test Runner y seguir el ejercicio, se necesita tener instalado:
 - Git
 - NodeJs v12+
 - NPM
 
-Para poder realizar y probar tus ejercicios requieres:
+> **Link de descarga de Git:** https://git-scm.com/
 
-- Visual Studio Code
-- C
+> **Link de descarga de NodeJs:** https://nodejs.org/en
+
+> **La dependencia NPM viene incluida junto con la instalación de NodeJs.**}
+
+Una vez instalado Git Bash, se deberá configurar para tener la cuenta del usuario correcta. Para esto, se deberá especificar el nombre de usuario / correo electrónico, junto con la contraseña de la cuenta. Si se encuentran problemas para acceder a la cuenta, se puede acceder a GitHub desde su página web y realizar el proceso de recuperación de la cuenta. 
+
+Para poder realizar y probar tus ejercicios, se requiere: 
+- Visual Studio Code.
+- Uno de los 4 lenguajes de programación soportados actualmente por el Test Runner: 
+    - C 
+    - C++ 
+    - Java 
+    - Python
 
 ## Validación de instalaciones
+Antes de realizar el ejercicio, se debe validar que se posean las dependencias requeridas, ejecutando los siguientes comandos en la ‘Command Prompt’ (cmd): 
 
-Antes de poder instalar Test-runner, valida que tengas **todas** las dependencias ejecutando los siguientes comandos en la `Command Prompt` (`cmd`):
 
 ```text
-git --version
+git --version 
 node --version
-npm --version
-gcc --version
+npm --version  
 ```
 
-Si te salió el número de la versión después de cada comando, estás listo. Ahora, si no te salió, puede que:
+Para validar la instalación del lenguaje de programación seleccionado:
 
-- No tengas instalado el software
-- Tu computadora no es capaz de encontar dónde se instaló (en este caso, investiga como agregarlo a tus _variables del entorno_)
-- Otra razón que desconocemos (tendrías que investigar que sucedió y como solucionarlo)
+**En C:**           
+```text
+gcc –version
+```
 
-## Instalación de Test-runner
+**En C++:**
+```text
+g++ –version
+```
 
-Ejecuta en la terminal de `GitBash` (debió instalarse junto con Git) el siguiente comando:
+**En Java:**
+```text
+java -version 
+```
+
+**En Python:**
+```text
+python --version 
+```
+
+Si al momento de ejecutar cada comando, se obtuvo el número de versión de la dependencia, entonces el usuario estará listo para proceder con el ejercicio. Ahora, si no ocurrió esto, a continuación se presentan algunas posibles causas: 
+
+- No se tiene instalado el software. 
+
+- La computadora del usuario no es capaz de encontrar dónde se instaló el software (en este caso, el usuario deberá agregar de manera manual la ruta de instalación de cada software dentro de las variables de entorno de su Sistema Operativo).
+
+## Instalación de Test-Runner
+
+Ejecuta en la terminal de `Git Bash` (debió instalarse junto con Git) el siguiente comando:
 
 ```text
 npm i -g uadyfmat/test-runner
